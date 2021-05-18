@@ -67,7 +67,7 @@
   "dependencies": {
     "a11y-focus-store": "^1.0.0",
     "cross-env": "^7.0.2",
-    "glam": "git+https://github.com/pway123/glam.git",
+    "glam": "git+https://github.com/pway123/glam.git#0cc8e0a056aa9c018daccbd9c67df5f9c4e73d51",
     "html-react-parser": "^0.10.3",
     "raf-schd": "^2.1.2",
     "react-focus-on": "^3.3.0",
